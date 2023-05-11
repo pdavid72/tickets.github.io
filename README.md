@@ -1,4 +1,3 @@
 # EJERCICIO 1
 
-Se desea calcular el de tickets vendidos de 7 dias por aerolinea en especifico y luego se calcula el promedio total de los ticket vendidos 
-Este colegio evalúa a los estudiantes de forma permanente y calcula el promedio general del curso. Como información básica de cada estudiante se debe registrar el número de identificación, su nombre y el curso realizado.
+Se desea calcular el promedio de tickets vendidos por 7 dias agrupados por las 3 distintas aerolineas, luego se calcula el promedio total de los ticket vendidos. Se debe ingresar información básica de cada vendedor se debe registrar el número de identificación, su nombre y aerolinea.
