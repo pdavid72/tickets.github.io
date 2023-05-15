@@ -29,3 +29,15 @@ Then debo poder guardar la informacion del vendedor como:
 
 # CASOS DE USO
 ![Caso de uso](https://github.com/pdavid72/tickets.github.io/assets/120527086/bddf4a2f-0a0a-487d-9020-fbec96322fa5)
+Nombre: Calcular promedio de tikets aerolineas
+Actores: Coordinador de ventas
+Proposito: Guardar identificacion, nombre, aerolinea, y los 5 resultados de ventas por dia y asi calcular el promedio vendido.
+Curso normal de eventos:
+1. El coordinador ingresa la cantidad de vendedores.
+2. El coordinador ingresa la identificacion, nombre, aerolinea, numero de ventas del lunes, numero de ventas del martes, numero de ventas del miercoles, numero de ventas del jueves y el numero de ventas  del viernes.
+3. Se calcula el promedio a partir de:
+    ((vLunes + vMartes + vMiercoles + vJueves + vViernes) / 5) / #Vendedores.
+4. Se Muestra el promedio de venta de los vendedores por aerolinea
+Postcondiciones: Promedio de ventas calculado
+
+
